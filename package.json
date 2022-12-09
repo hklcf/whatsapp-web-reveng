@@ -16,7 +16,7 @@
     "url": "https://github.com/sigalor/whatsapp-web-reveng.git"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "lodash": "^4.17.19",
     "path": "^0.12.7",
